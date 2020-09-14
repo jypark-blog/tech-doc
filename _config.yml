@@ -21,11 +21,11 @@
 title: TECH-DOC
 email: pjyaios@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
-  기술 문서입니다. 참고하여 많은 도움이 되었습면 좋겠습니다.
+  참고하여 많은 도움이 되면 좋겠습니다.
 baseurl: "/tech-doc" # the subpath of your site, e.g. /blog
 url: "https://jypark-blog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: -
-github_username: -
+twitter_username: 
+github_username: 
 
 # Build settings
 theme: minima
