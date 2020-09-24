@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apply Disabled Button Style"
+title:  "Disabled Button에 Style 입히기"
 date:   2020-09-23 23:49:00 +0900
 categories: CSS
 ---
